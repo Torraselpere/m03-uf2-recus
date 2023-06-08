@@ -12,4 +12,4 @@
 - Buscar elemento: Permite al usuario buscar un elemento específico en la lista y muestra su posición si se encuentra.
 - Salir: Finaliza la aplicación y sale del menú.
 > Estas funcionalidades brindan al usuario la capacidad de gestionar y manipular los elementos de la lista de una manera intuitiva y amigable desde la consola.
-> Pere Torras Massagué
+**Pere Torras Massagué**
