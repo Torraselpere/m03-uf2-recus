@@ -1,32 +1,14 @@
 # m03-uf2-recus
-/**
- * Temática del programa:
- * El programa implementado es un menú interactivo en Java que permite a los usuarios realizar diversas acciones sobre una lista de elementos.
- * La lista de elementos puede representar cualquier tipo de información que los usuarios deseen administrar o manipular desde la consola.
- */
+## Temática del programa
 
-// Funcionalidades de la aplicación:
-// 1. Agregar elemento
-// 2. Mostrar elementos
-// 3. Eliminar elemento
-// 4. Buscar elemento
-// 5. Salir
+> El programa implementado es un menú interactivo en Java que permite a los usuarios realizar diversas acciones sobre una lista de elementos. La temática del programa es bastante genérica y puede adaptarse a diferentes contextos o aplicaciones específicas. En este caso, la lista de elementos puede representar cualquier tipo de información que los usuarios deseen administrar o manipular desde la consola.
 
-// Ejemplo de flujo principal del programa:
-// 1. Mostrar el menú principal
-// 2. Leer la opción seleccionada por el usuario
-// 3. Procesar la opción seleccionada
-//    a. Si es la opción 1, agregar un elemento a la lista
-//    b. Si es la opción 2, mostrar los elementos de la lista
-//    c. Si es la opción 3, eliminar un elemento de la lista
-//    d. Si es la opción 4, buscar un elemento en la lista
-//    e. Si es la opción 5, salir del programa
-//    f. Si es una opción inválida, mostrar un mensaje de error
+## Funcionalidades de la aplicación
+> El menú interactivo proporciona las siguientes funcionalidades:
 
-// El programa seguirá ejecutando el flujo principal hasta que el usuario seleccione la opción de salir (opción 5).
-
-// Aquí se implementaría el código correspondiente a las funcionalidades mencionadas.
-
-// ...
-
-// Espero que esta explicación en formato de comentarios sea útil. Si tienes alguna pregunta adicional o necesitas más información, ¡no dudes en preguntar! 😊
+- Agregar elemento: Permite al usuario ingresar un nuevo elemento y agregarlo a la lista.
+- Mostrar elementos: Muestra todos los elementos actualmente presentes en la lista.
+- Eliminar elemento: Permite al usuario seleccionar un elemento de la lista y eliminarlo.
+- Buscar elemento: Permite al usuario buscar un elemento específico en la lista y muestra su posición si se encuentra.
+- Salir: Finaliza la aplicación y sale del menú.
+> Estas funcionalidades brindan al usuario la capacidad de gestionar y manipular los elementos de la lista de una manera intuitiva y amigable desde la consola.
